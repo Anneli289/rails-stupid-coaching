@@ -1,0 +1,21 @@
+// Place all the styles related to the pages controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: https://sass-lang.com/
+h1 {
+  color: rgb(100, 99, 99);
+};
+
+#question {
+  border: 5px;
+  border-color: rgb(199, 199, 199);
+  border-left-style: dotted;
+  padding: 10px;
+  margin-bottom: 30px;
+}
+
+#answer {
+  border: 5px;
+  border-color: rgb(199, 199, 199);
+  border-left-style: dotted;
+  padding: 10px;
+}
